@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://github.com/bhawnasaini350/Bhawna-saini/blob/main/githubbanner.webp">
 <h1 align="center">Hi 👋, I'm Bhawna Saini</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer and Power BI developer from India</h3>
 <img align="right" alt="coding"width="400" src="https://github.com/bhawnasaini350/Bhawna-saini/blob/main/daonline.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawnasaini350&label=Profile%20views&color=0e75b6&style=flat" alt="bhawnasaini350" /> </p>
