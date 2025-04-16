@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhawnasaini350&label=Profile%20views&color=0e75b6&style=flat" alt="bhawnasaini350" /> </p>
 
-- 🌱 I’m currently learning **Big Data Analyst course**
+- 🌱 I’m currently searching job in  **Big Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhawnasaini350/coffee-project](https://github.com/bhawnasaini350/coffee-project)
 
-- 💬 Ask me about **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Tableau, Excel**
+- 💬 Ask me about **Python, SQL, Pandas, NumPy, Power BI, Pyspark, Azure**
 
 - 📫 How to reach me **bhawnasaini350@gmail.com**
 
